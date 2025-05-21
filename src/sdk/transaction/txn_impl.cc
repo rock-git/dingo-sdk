@@ -14,14 +14,10 @@
 
 #include "sdk/transaction/txn_impl.h"
 
-#include <bthread/bthread.h>
-#include <fmt/format.h>
-
 #include <cstdint>
 #include <memory>
 #include <string>
 #include <string_view>
-#include <thread>
 #include <utility>
 #include <vector>
 
